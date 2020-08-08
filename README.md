@@ -7,6 +7,7 @@ I am interested in
 - Cyber security
 - and everything about IT
 
+
 - 🔭 I’m currently working on my portfolio web site
 - 🌱 I’m currently learning everyting
 - 🤔 I’m looking for help with getting job
