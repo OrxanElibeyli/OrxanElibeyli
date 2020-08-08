@@ -1,9 +1,15 @@
-### Hi there 👋
+### Hi there, I am Orxan 👋
+
+I am computer science student.
+I am interested in 
+- Web development
+- Linux based systems
+- Syber security
+- and everything about IT
 
 <!--
 **OrxanElibeyli/OrxanElibeyli** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
