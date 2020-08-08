@@ -1,4 +1,4 @@
-### Hi there, I am Orxan 👋
+### Hi, I am Orxan 👋
 
 I am computer science student.
 I am interested in 
